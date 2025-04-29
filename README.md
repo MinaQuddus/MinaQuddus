@@ -48,12 +48,11 @@
   
    <a href="mailto:your-minaquddus05@gmail.com?subject=Hello!" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
- <a href="https://www.linkedin.com/in/mina-quddus" target="_blank"></a>
- 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="www.linkedin.com/in/ddus" />
-</a>
-
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=7851A9&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="https://minaquddus.github.io/mina-quddus" />
+    </a> 
+ <a href="https://www.linkedin.com/in/mina-quddus" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedIn logo" /></a>
+<a href="https://minaquddus.github.io/mina-quddus/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=7851A9&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfoli logo" />
 </a>
 </div>
 
